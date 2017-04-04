@@ -1,0 +1,18 @@
+{
+  "short_name": "Test",
+  "name": "Test task",
+  "icons": [
+    {
+      "src": "/icon/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait",
+
+  "gcm_sender_id": "143915540618",
+  "gcm_user_visible_only": true
+}
